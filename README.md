@@ -10,4 +10,5 @@ Here is my solved Leetcode problems of Pandas. :D
 | [0180-consecutive-numbers](https://github.com/gnanaprakash9490/Pandas/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/gnanaprakash9490/Pandas/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/gnanaprakash9490/Pandas/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/gnanaprakash9490/Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
